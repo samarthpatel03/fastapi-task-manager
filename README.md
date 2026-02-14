@@ -1,0 +1,1 @@
+Initial FastAPI Task Manager with CRUD and JSON Persistence
